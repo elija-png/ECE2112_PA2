@@ -40,7 +40,7 @@ def swap_bookends(item):
 ```
 ---
 Thank you for reading!  
-To see the main Python program for Programming Assignment 1, click this link: https://github.com/elija-png/ECE-2112-PA-1/blob/91ed091e39379f67c2b18320e4cb282aa8f9c49c/ECE2112_PA1_ROJO.ipynb
+To see the main Python program for Programming Assignment 2, click this link: https://github.com/elija-png/ECE2112_PA2/blob/edb15f46d7b2e5b342e881e9d3fac6992ad597f8/ECE2112_PA2.ipynb
 ---
 **README Changelog:**  
 
